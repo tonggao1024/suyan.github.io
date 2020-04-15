@@ -1,24 +1,17 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: GT的博客
+email: tonggao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  GT的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://tong.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Tong Gao
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 recent_num: 20
-
-# Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
 
 # avatar and Favicon
 avatar: http://imgs.yansu.org/site-avatar.png
